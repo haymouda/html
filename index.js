@@ -2,3 +2,8 @@
 
 var test = "Hello";
 
+function test()
+{
+    
+}
+
